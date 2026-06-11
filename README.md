@@ -8,7 +8,7 @@ Ce projet a été réalisé dans le cadre du module **Développement Mobile** à
 
 ---
 
-## 👥 Membre du Groupe
+##  Membre du Groupe
 
 * Manar Amadjouj
 
@@ -27,36 +27,38 @@ L'application vise à :
 
 ---
 
-##  Captures d'Écran
+##  Captures d'écran
 
-### Authentification
+###  Authentification
 
-| Login Screen |
-|--------------|
-| ![Login 1](screenshots/login/login_1.png) |
-| ![Login 2](screenshots/login/login_2.png) |
-
-### Dashboard
-
-| Dashboard |
-|-----------|
-| ![Dashboard 1](screenshots/dashboard/dashboard_1.png) |
-| ![Dashboard 2](screenshots/dashboard/dashboard_2.png) |
-
-
-### Gestion des Exercices
-Voici quelques écrans de la gestion des exercices :
-
-| CRUD Screens |
-|--------------|
-| ![CRUD 1](screenshots/crud/crud_1.png) |
-| ![CRUD 2](screenshots/crud/crud_2.png) |
-| ![CRUD 3](screenshots/crud/crud_3.png) |
-| ![CRUD 4](screenshots/crud/crud_4.png) |
-| ![CRUD 5](screenshots/crud/crud_5.png) |
-| ![CRUD 6](screenshots/crud/crud_6.png) |
+<p align="center">
+  <img src="screenshots/login/login_1.png" width="250"/>
+  <img src="screenshots/login/login_2.png" width="250"/>
+</p>
 
 ---
+
+###  Dashboard
+
+<p align="center">
+  <img src="screenshots/dashboard/dashboard_1.png" width="250"/>
+  <img src="screenshots/dashboard/dashboard_2.png" width="250"/>
+</p>
+
+---
+
+###  Gestion des Exercices (CRUD)
+
+Voici quelques écrans de la gestion des exercices :
+
+<p align="center">
+  <img src="screenshots/crud/crud_1.png" width="250"/>
+  <img src="screenshots/crud/crud_2.png" width="250"/>
+  <img src="screenshots/crud/crud_3.png" width="250"/>
+  <img src="screenshots/crud/crud_4.png" width="250"/>
+  <img src="screenshots/crud/crud_5.png" width="250"/>
+  <img src="screenshots/crud/crud_6.png" width="250"/>
+</p>
 
 ## Fonctionnalités Réalisées
 
