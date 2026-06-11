@@ -1,0 +1,19 @@
+{
+  "exercices": [
+    {
+      "id": "1",
+      "nom": "Pompes",
+      "categorie": "Musculation",
+      "description": "Exercice au poids du corps ciblant les pectoraux, les épaules et les triceps.",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "nom": "Course à pied",
+      "categorie": "Cardio",
+      "description": "Footing léger de 30 minutes pour l'endurance cardiovasculaire.",
+      "image": ""
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
